@@ -2,7 +2,7 @@
 # Sentiment Analysis with Python
 This repository contains a Jupyter Notebook (centimentAnalysis.ipynb) that demonstrates a complete workflow for performing sentiment analysis on text data. The project classifies text reviews into two categories: positive (label 1) and negative (label 0).
 
-Project Overview
+**Project Overview**:
 Sentiment analysis is a Natural Language Processing (NLP) task that involves determining the emotional tone behind a piece of text. This project builds a machine learning model to automate this process, which can be highly valuable for tasks like customer feedback analysis, social media monitoring, and review summarization.
 
 The notebook covers the following key stages:
